@@ -38,6 +38,7 @@ mod scaled_dot_product_attention;
 mod triangular;
 mod unbind;
 mod values_like;
+mod allclose;
 
 /// Tensor functional
 /// # Examples
